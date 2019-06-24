@@ -1,0 +1,33 @@
+{
+  "name": "canrequest",
+  "version": "0.1.0",
+  "description": "Canrequest is an express middleware that helps to check required request information (headers, query, and body).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joananespina/canrequest.git"
+  },
+  "keywords": [
+    "request",
+    "verifier",
+    "canrequest",
+    "web",
+    "api"
+  ],
+  "author": "@joananespina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joananespina/canrequest/issues"
+  },
+  "homepage": "https://github.com/joananespina/canrequest#readme",
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
