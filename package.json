@@ -1,6 +1,6 @@
 {
   "name": "canrequest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Canrequest is an express middleware that helps to check required request information (headers, query, and body).",
   "main": "index.js",
   "scripts": {},
