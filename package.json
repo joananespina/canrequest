@@ -1,7 +1,7 @@
 {
   "name": "canrequest",
   "version": "0.1.0",
-  "description": "Canrequest verifies if an api request is allowed or not.",
+  "description": "Canrequest is an express middleware that helps to check required request information (headers, query, and body).",
   "main": "index.js",
   "scripts": {},
   "repository": {
