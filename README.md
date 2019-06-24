@@ -3,7 +3,7 @@
 
 **Canrequest** is an express middleware that helps to check required request information *(headers, query, and body)*.
 
-**Wargning!** Package still in early development stages.
+**Warning!** Package still in early development stages.
 
 ## Installation
 
@@ -77,6 +77,8 @@ Set the canrequest middleware with your `requestConfig`
 app.use(canrequest.check(requestConfig));
 ```
 And that's it!
+
+*Full example coming soon*
 
 ## License
 
